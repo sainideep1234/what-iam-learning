@@ -1,0 +1,2 @@
+- [nano-banana-model](https://blog.google/intl/en-mena/product-updates/explore-get-answers/nano-banana-image-editing-in-gemini-just-got-a-major-upgrade/)
+- [DSA sheet](https://docs.google.com/spreadsheets/d/164KPfQJfiK-L7ydkAYpE78dJ_Wrg2ZYRjIHg8Cub4ow/edit?gid=0#gid=0)
